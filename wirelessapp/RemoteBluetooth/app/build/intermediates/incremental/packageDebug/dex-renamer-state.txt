@@ -1,0 +1,7 @@
+#Wed May 31 20:14:27 CDT 2017
+base.0=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dead510cd8f727c7bd5d9a975742f65ceafee82b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f353ae6dbabd6585bfad8cd0484247f004deb4e4\\classes.dex
+base.1=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f353ae6dbabd6585bfad8cd0484247f004deb4e4
+file.0=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dead510cd8f727c7bd5d9a975742f65ceafee82b\\classes.dex

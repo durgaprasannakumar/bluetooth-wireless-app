@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1">
+    
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start SlideShow"
+        android:layout_weight="0.10" />
+     <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Next Slide"
+         android:layout_weight="0.14" />
+     <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Previous Slide"
+         android:layout_weight="0.13" />
+
+     <EditText
+         android:id="@+id/enterNo"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:ems="10"
+         android:inputType="number"
+         android:layout_weight="0.12">
+
+         <requestFocus />
+     </EditText>
+
+     <Button
+        android:id="@+id/button4"
+        android:layout_width="396dp"
+        android:layout_height="wrap_content"
+        android:text="Enter Slide Number"
+         android:layout_weight="0.10" />
+
+     <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Stop SlideShow"
+         android:layout_weight="0.11" />
+
+     <TextView
+         android:id="@+id/textView1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:minWidth="200dp" />
+	<TextView
+         android:id="@+id/textView2"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:minWidth="200dp" />
+
+</LinearLayout>

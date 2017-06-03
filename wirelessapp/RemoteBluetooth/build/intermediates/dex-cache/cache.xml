@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Durga Prasanna Kumar\Downloads\Wireless networks\Wireless networks\RemoteBluetooth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23b44d9e2a49b7861473e17f50b37703da3b2cd5">
+        <dex dex="C:\Users\Durga Prasanna Kumar\Downloads\Wireless networks\Wireless networks\RemoteBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dead510cd8f727c7bd5d9a975742f65ceafee82b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Durga Prasanna Kumar\Downloads\Wireless networks\Wireless networks\RemoteBluetooth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68ddbd31514be1c68425001c1a49e3906307f9b7">
+        <dex dex="C:\Users\Durga Prasanna Kumar\Downloads\Wireless networks\Wireless networks\RemoteBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f353ae6dbabd6585bfad8cd0484247f004deb4e4\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir></rootDir>
+    <workDir>/work</workDir>
+    <exportSource>false</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation></warLocation>
+    <extraInfo></extraInfo>
+    <mavenClasspath>false</mavenClasspath>
+    <webPath></webPath>
+    <webClassPathEntries>
+        <webClassPathEntry>/RemoteBluetoothServer/bin</webClassPathEntry>
+        <webClassPathEntry>/RemoteBluetoothServer/lib/JNativeHook.jar</webClassPathEntry>
+        <webClassPathEntry>/RemoteBluetoothServer/lib/bluecove-2.1.1-SNAPSHOT.jar</webClassPathEntry>
+        <webClassPathEntry>/RemoteBluetoothServer/lib/bluecove-gpl-2.1.1-SNAPSHOT.jar</webClassPathEntry>
+        <webClassPathEntry>/RemoteBluetoothServer/lib/poi-3.10.1-20140818.jar</webClassPathEntry>
+        <webClassPathEntry>/RemoteBluetoothServer/lib/poi-examples-3.10.1-20140818.jar</webClassPathEntry>
+        <webClassPathEntry>/RemoteBluetoothServer/lib/poi-excelant-3.10.1-20140818.jar</webClassPathEntry>
+        <webClassPathEntry>/RemoteBluetoothServer/lib/poi-ooxml-3.10.1-20140818.jar</webClassPathEntry>
+        <webClassPathEntry>/RemoteBluetoothServer/lib/poi-ooxml-schemas-3.10.1-20140818.jar</webClassPathEntry>
+        <webClassPathEntry>/RemoteBluetoothServer/lib/poi-scratchpad-3.10.1-20140818.jar</webClassPathEntry>
+    </webClassPathEntries>
+</tomcatProjectProperties>

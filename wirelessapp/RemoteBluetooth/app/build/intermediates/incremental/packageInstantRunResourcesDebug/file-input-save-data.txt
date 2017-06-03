@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Wed May 31 20:14:17 CDT 2017
+2.base=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\custom_title.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\device_list.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\option_menu.xml
+5.base=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\device_name.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_splash.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Durga Prasanna Kumar\\Downloads\\Wireless networks\\Wireless networks\\RemoteBluetooth\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
